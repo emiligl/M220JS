@@ -1,5 +1,5 @@
 =====
-Mflix
+Mflix -M220JS Course
 =====
 
 This is a short guide on setting up the system and environment dependencies
